@@ -12,27 +12,27 @@
 - see you around
 - see you later
 
-## intent:fine_time_zone
+## intent:find_time_zone
 - can you tell the time?
 - Could you tell me the time?
 - I need you to find a time zone?
 - What time is it?
-
+- tell me the time zone
 
 ## intent:find_time_zone_for_location
- - What is the time zone of Lisbon?
- - time zone of London
- - Do you know the timezone of Mumbai?
+ - What is the time zone of [Lisbon](city)?
+ - time zone of [London])(city)
+ - Do you know the timezone of [Mumbai](city)?
+ - I need to know the time zone of [Prague](city)?
 
 ## intent:city_info
- - London
- - San Francisisco
- - New Delhi
- - Madrid
- - Oslo
+ - [London](city)
+ - [San Francisisco](city)
+ - [New Delhi](city)
+ - [Madrid](city)
+ - [Oslo](city)
 
 ## intent:thanks
  - thank you
  - thanks
  - great,thanks
- 
