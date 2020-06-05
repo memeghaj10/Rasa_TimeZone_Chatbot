@@ -34,6 +34,6 @@ Currently the ChatBot is capable of answering :-
 <img src="pictures/chatbot.png">
 
 
-To modify or add more Time-Zones, you can add an API to the `action.py` file or store the same in a python dictionary created in the same file.
+To modify or add more Time-Zones, you can add an API to the `actions.py` file or store the same in a python dictionary created in the same file.
 
 
