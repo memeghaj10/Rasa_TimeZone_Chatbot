@@ -14,25 +14,32 @@
 
 ## intent:find_time_zone
 - can you tell the time?
-- Could you tell me the time?
-- I need you to find a time zone?
-- What time is it?
-- tell me the time zone
+- do you know how to tell the time?
+- i need to find a time zone
+- can you find me a time zone
+- what time is it?
 
 ## intent:find_time_zone_for_location
- - What is the time zone of [Lisbon](city)?
- - time zone of [London])(city)
- - Do you know the timezone of [Mumbai](city)?
- - I need to know the time zone of [Prague](city)?
+- what is the time zone of [London](city)?
+- do you know the time in [Sofia](city)
+- what time is it in [Barcelona](city)?
+- [Porto](city) time zone
+- time zone of [Warsaw](city)
+- tell me the time of [Budapest](city)
+- what is [Dublin](city) time zone?
 
 ## intent:city_info
- - [London](city)
- - [San Francisisco](city)
- - [New Delhi](city)
- - [Madrid](city)
- - [Oslo](city)
+- [London](city)
+- [Berlin](city)
+- [Glasgow](city)
+- [Lisbon](city)
+- [Paris](city)
+- [Milan](city)
+- [Sofia](city)
+- [Madrid](city)
+- [Oslo](city)
 
 ## intent:thanks
- - thank you
- - thanks
- - great,thanks
+- thank you
+- thanks
+- That's great, thanks
